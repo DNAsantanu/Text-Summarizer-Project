@@ -10,7 +10,9 @@ tqdm
 PyYAML
 matplotlib
 torch
+jupyter
 notebook
+ipykernel
 boto3
 mypy-boto3-s3
 python-box
